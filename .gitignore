@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+# Ignore specific debug files only in the root directory
+*.svd
+debug.cfg
+debug_custom.json
